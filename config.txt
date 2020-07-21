@@ -1,0 +1,6 @@
+﻿token=NzM1MjUxOTQ2NDU3Mzk5NDM4.XxdoTg.8ZhDF30j8MA_FgOj7cZGoQm7JA4
+owner=287898437058560000 
+prefix= 88
+game= 88help
+stayinchannel=true
+songinstatus=true 
